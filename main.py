@@ -11,7 +11,6 @@ import aiohttp
 import time
 from multiprocessing import Pool, cpu_count
 
-# 4c8fa7d9b32c88b547108c4e9e67ed7c
 st.set_page_config(page_title="Temperature Analysis", layout="wide")
 
 st.title('Temperature Analysis')
